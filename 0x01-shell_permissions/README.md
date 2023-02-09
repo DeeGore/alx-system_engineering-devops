@@ -6,3 +6,4 @@ script that creates an epmty file
 Script that add execute onwer
 script that adds execute permission to the owner and the group owner, and read permission to other users
 script that adds execution permission to the owner, the group owner and the other users,
+script that gives divided permission
