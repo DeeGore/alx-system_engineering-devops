@@ -10,3 +10,4 @@ script that gives divided permission
 Numerical permission
 script that copies mode
 scripts that give permissin to all directories
+script that creates a directory
