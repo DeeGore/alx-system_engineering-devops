@@ -9,3 +9,4 @@ script that adds execution permission to the owner, the group owner and the othe
 script that gives divided permission
 Numerical permission
 script that copies mode
+scripts that give permissin to all directories
