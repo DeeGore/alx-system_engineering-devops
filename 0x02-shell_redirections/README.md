@@ -14,3 +14,4 @@ Being unique is bettr
 Whats next
 Conating root
 Number of line that conatins pattern
+Display all the line that do not containbin
