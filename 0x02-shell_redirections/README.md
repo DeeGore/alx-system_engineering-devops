@@ -10,3 +10,4 @@ Duplicate last line
 Deletes regular files not directory
 counts directories and subdirectories
 Whats new
+Being unique is bettr
