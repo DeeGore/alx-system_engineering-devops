@@ -13,3 +13,4 @@ Whats new
 Being unique is bettr
 Whats next
 Conating root
+Number of line that conatins pattern
