@@ -17,3 +17,4 @@ Number of line that conatins pattern
 Display all the line that do not containbin
 Display all lines starting with a letter
 Replace characters
+Removes all letters
