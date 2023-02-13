@@ -7,3 +7,4 @@ Display first lines
 Third line of a file
 File cuts without making noise
 Duplicate last line
+Deletes regular files not directory
