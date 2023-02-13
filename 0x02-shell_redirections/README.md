@@ -20,3 +20,4 @@ Replace characters
 Removes all letters
 Reverse input
 All users and their home directories
+Empty files and directories
